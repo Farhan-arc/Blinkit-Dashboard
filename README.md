@@ -1,6 +1,5 @@
 # 🛒 Blinkit Sales Dashboard – Power BI Project
 
-![Dashboard Screenshot](https://github.com/Farhan-arc/Blinkit-Dashboard/blob/main/Screenshot.png)
 
 ## 📊 Project Overview
 
