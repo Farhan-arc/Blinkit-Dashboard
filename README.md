@@ -49,10 +49,10 @@ This Power BI dashboard provides insightful analysis of sales performance for **
 ---
 
 ## 🧑‍💻 Author
-
+🔗 [
 **Mohd Farhan Khan**  
 📧 Email: [mohdfarhank19@gmail.com](mailto:mohdfarhank19@gmail.com)  
-🔗 [LinkedIn](https://linkedin.com/in/mohd-farhan-khan)  
+[LinkedIn]:www.linkedin.com/in/mohd-farhan-khan-b94908319)  
 
 ---
 
